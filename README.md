@@ -1,2 +1,2 @@
-# GD3_NatureMorte_JulieManceau
+# GD3_NatureMorteUnity_JulieManceau
 Devoir de nature morte sur Unity
