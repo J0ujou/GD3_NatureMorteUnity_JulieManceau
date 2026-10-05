@@ -55,9 +55,9 @@ MonoBehaviour:
   active: 0
   shadows:
     m_OverrideState: 1
-    m_Value: {r: 0.120593496, g: 0, b: 0.6415094, a: 1}
+    m_Value: {r: 0, g: 0, b: 0, a: 1}
   highlights:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {r: 0.49808422, g: 0.41037738, b: 1, a: 1}
   balance:
     m_OverrideState: 1
@@ -197,11 +197,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.LiftGammaGain
   active: 0
   lift:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {x: 0.96279466, y: 0.9524303, z: 1, w: -0.00000006893605}
   gamma:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {x: 0.8696958, y: 0.90895534, z: 1, w: 0}
   gain:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {x: 0.88488454, y: 0.87520516, z: 1, w: 0}
