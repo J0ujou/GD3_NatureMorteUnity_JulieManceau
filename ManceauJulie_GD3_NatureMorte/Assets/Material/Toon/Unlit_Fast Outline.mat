@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: OutlineMat
-  m_Shader: {fileID: -6465566751694194690, guid: 03f3989259e44cf47a92a537a7fb9fcd, type: 3}
+  m_Name: Unlit_Fast Outline
+  m_Shader: {fileID: 4800000, guid: 193ebb54d65195c4183c00c6e793fe30, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -22,23 +22,11 @@ Material:
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs:
-    - unity_Lightmaps:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - unity_LightmapsInd:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - unity_ShadowMasks:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+    m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - _Thickness: 0.214
+    - _OutlineWidth: 3.32
     m_Colors:
-    - _Color: {r: 1, g: 0.90588236, b: 0.49803922, a: 1}
+    - _OutlineColor: {r: 1, g: 0.90588236, b: 0.49803922, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

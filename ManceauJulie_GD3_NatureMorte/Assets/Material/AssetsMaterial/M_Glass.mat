@@ -105,25 +105,25 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _InnerRimPower: 0.2
-    - _InnerRimSmoothness: 0
-    - _LightSpecCutoff: 0.1
-    - _LightSpecCutoffSmoothness: 2
+    - _InnerRimPower: 1.2
+    - _InnerRimSmoothness: 0.14
+    - _LightSpecCutoff: 0.8
+    - _LightSpecCutoffSmoothness: 2.87
     - _Metallic: 1
     - _OcclusionStrength: 1
-    - _OuterRimSmoothness: 0
+    - _OuterRimSmoothness: 0.2
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Rimpower: 1.5
+    - _Rimpower: 1
     - _Smoothness: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 1
-    - _ViewSpecular: 0.571
+    - _ViewSpecular: 1
     - _WorkflowMode: 1
     - _XRMotionVectorsPass: 1
     - _ZTest: 4
@@ -131,12 +131,12 @@ Material:
     - _ZWriteControl: 0
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 0.23313455, g: 0.28081822, b: 0.2924528, a: 0.050980393}
+    - _Color: {r: 0.6556604, g: 0.6556604, b: 0.6556604, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _InnerGlowColor: {r: 0.97647065, g: 0.882353, b: 0.18823531, a: 1}
-    - _OuterRimColor: {r: 1, g: 0.90196085, b: 0.19215688, a: 1}
+    - _InnerGlowColor: {r: 0.5294118, g: 0.5294118, b: 0.5058824, a: 0.32941177}
+    - _OuterRimColor: {r: 0.6933962, g: 0.6933962, b: 0.6018156, a: 0.22352941}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _SpecularColor: {r: 0, g: 0.43599024, b: 0.7122642, a: 1}
+    - _SpecularColor: {r: 0.688657, g: 0.8037819, b: 0.8537736, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &1743298106882516396
