@@ -100,7 +100,7 @@ Material:
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BlendOp: 0
-    - _BumpScale: 1
+    - _BumpScale: 1.3
     - _CircleDensity: 5
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
@@ -127,7 +127,7 @@ Material:
     - _Rotation: 0
     - _Shades: 0.9
     - _ShadingMultiplayer: 0.1
-    - _Smoothness: 0.517
+    - _Smoothness: 0
     - _SmoothnessTextureChannel: 0
     - _Softness: 0
     - _SpecularHighlights: 1
@@ -139,8 +139,8 @@ Material:
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.31132078, g: 0.19678505, b: 0.13803846, a: 1}
-    - _Color: {r: 0.31132075, g: 0.196785, b: 0.13803843, a: 1}
+    - _BaseColor: {r: 0.3254717, g: 0.2652505, b: 0.2272161, a: 1}
+    - _Color: {r: 0.32547167, g: 0.26525047, b: 0.22721606, a: 1}
     - _EmissionColor: {r: 0.013358062, g: 0, b: 0.1745283, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
