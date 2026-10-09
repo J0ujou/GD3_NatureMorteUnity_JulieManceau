@@ -22,10 +22,15 @@ Material:
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs: []
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 24dc6e3ac082cea4ab164d65d9780f5a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _OutlineWidth: 3.32
+    - _Cutoff: 0.5
+    - _OutlineWidth: 1
     m_Colors:
     - _OutlineColor: {r: 1, g: 0.90588236, b: 0.49803922, a: 1}
   m_BuildTextureStacks: []
